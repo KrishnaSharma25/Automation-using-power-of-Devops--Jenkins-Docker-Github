@@ -8,6 +8,9 @@
 
 3. With the help of job chaining,now we have to create jobs in jenkins.
 
+## Article link
+https://www.linkedin.com/pulse/automation-using-power-devops-jenkinsdocker-agithub-krishna-sharma
+
 # Job1:-
    pull the github repo automatically when some developers push repo 
    to github.
